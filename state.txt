@@ -1,0 +1,7 @@
+zipcode	city	address	address_extra	country_state
+1	1	1	1	US_BR_CA_MX/ISO
+11	11	11	11	US_BR_CA_MX/NO_ISO
+-inf	-inf	-inf	-inf	US_BR_CA_MX/NULL
+0	0	0	0	OTHER/ISO
+inf	inf	inf	inf	OTHER/NO_ISO
+				OTHER/NULL

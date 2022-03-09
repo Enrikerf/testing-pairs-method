@@ -1,0 +1,5 @@
+name	value
+simple	simple
+compose	arrayString
+simpleOp	array
+composerOp	null
